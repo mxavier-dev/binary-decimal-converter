@@ -14,9 +14,6 @@ A simple and intuitive **Binary ↔ Decimal Converter** built with Python and `c
 ![Binary to Decimal Tab](screenshot1.png)
 ![Decimal to Binary Tab](screenshot2.png)
 
-*(Note: Add screenshots of your application in action!)*
-
-
 ## How to Use
 
 1. **Binary to Decimal**:
