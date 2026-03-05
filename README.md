@@ -12,7 +12,6 @@ A simple and intuitive **Binary ↔ Decimal Converter** built with Python and `c
 - **Binary to Decimal Conversion**: Enter a binary number and get its decimal equivalent.
 - **Decimal to Binary Conversion**: Enter a decimal number and get its binary equivalent.
 - **Input Validation**: Ensures only valid binary (0s and 1s) or decimal (0-9) numbers are entered.
-- **Dark Mode UI**: Modern and visually appealing interface using `customtkinter`.
 
 ## 📸 Screenshots
 <img width="361" height="387" alt="shot-2026-03-05_18-00-41" src="https://github.com/user-attachments/assets/5958819a-f9d1-44ab-96e4-8126f2906ff5" />
