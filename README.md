@@ -1,45 +1,58 @@
-# Binary Converter
+# Binary/Decimal Converter
 
-Simple GUI programs to convert between binary and decimal numbers.
+A simple and intuitive **Binary ↔ Decimal Converter** built with Python and `customtkinter`. This application allows users to convert binary numbers to decimal and vice versa, with a clean and user-friendly interface.
 
-Included files
-- [Projetos_git/Binario/binary_converter_EN.py](Projetos_git/Binario/binary_converter_EN.py) — English UI and labels.
-- [Projetos_git/Binario/binary_converter_PT-BR.py](Projetos_git/Binario/binary_converter_PT-BR.py) — Portuguese UI and labels.
+## Features
 
-Requirements
-- Python 3.8 or newer
-- `customtkinter` (install with `pip install customtkinter`)
-- A working Tkinter installation (usually bundled with Python on most platforms)
+- **Binary to Decimal Conversion**: Enter a binary number and get its decimal equivalent.
+- **Decimal to Binary Conversion**: Enter a decimal number and get its binary equivalent.
+- **Input Validation**: Ensures only valid binary (0s and 1s) or decimal (0-9) numbers are entered.
+- **Dark Mode UI**: Modern and visually appealing interface using `customtkinter`.
 
-Quick start
-1. Open a terminal in the repository root (the folder that contains `Projetos_git`).
-2. Run the English version:
+## Screenshots
+
+![Binary to Decimal Tab](screenshot1.png)
+![Decimal to Binary Tab](screenshot2.png)
+
+## How to Use
+
+1. **Binary to Decimal**:
+   - Go to the "Binary → Decimal" tab.
+   - Enter a binary number (e.g., `1010`).
+   - Click "Convert" to see the decimal result.
+
+2. **Decimal to Binary**:
+   - Go to the "Decimal → Binary" tab.
+   - Enter a decimal number (e.g., `10`).
+   - Click "Convert" to see the binary result.
+
+## Requirements
+
+- Python 3.x
+- `customtkinter` library
+
+Install the required library using pip:
 
 ```bash
-python3 Projetos_git/Binario/binary_converter_EN.py
+pip install customtkinter
 ```
 
-Or run the Portuguese version:
+## How to run
 
+1 - Clone the repository:
 ```bash
-python3 Projetos_git/Binario/binary_converter_PT-BR.py
+git clone https://github.com/mxavier-dev/binary-decimal-converter
 ```
 
-What it does
-- Provides a small GUI with two tabs: "Binary → Decimal" and "Decimal → Binary".
-- Input validation prevents invalid characters. The binary entry allows only `0` and `1`, disallows leading `0` (but accepts an empty string so the user can clear the field). The decimal entry accepts digits only.
-- Conversions are performed in the GUI and results are shown on-screen.
+2 - Navigate to the project directory:
+```bash
+cd binary-decimal-converter
+```
 
-Notes
-- The programs are lightweight single-file scripts intended for learning and personal use.
-- If you want to bundle them as executables, tools like `pyinstaller` or `cx_Freeze` work well with GUI scripts.
+3 - Run the application:
+```bash
+python3 binary_converter_EN.py
+```
+## 📫 Contact
 
-Contributing
-- Improvements, bug reports or pull requests are welcome. Please include a short description and steps to reproduce any issue.
-
-License
-- MIT License — include a `LICENSE` file if you want to publish this publicly.
-
-Author
-- (Add your name or contact info here)
-# binary-converter
+Developed by **Matheus de Freitas Xavier** • [Linkedin Profile](https://www.linkedin.com/in/matheus-xavier-a14b0732a)
