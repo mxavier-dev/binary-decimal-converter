@@ -14,8 +14,8 @@ A simple and intuitive **Binary ↔ Decimal Converter** built with Python and `c
 - **Input Validation**: Ensures only valid binary (0s and 1s) or decimal (0-9) numbers are entered.
 
 ## 📸 Screenshots
-<img width="361" height="387" alt="shot-2026-03-05_18-00-41" src="https://github.com/user-attachments/assets/5958819a-f9d1-44ab-96e4-8126f2906ff5" />
-<img width="363" height="388" alt="shot-2026-03-05_18-01-06" src="https://github.com/user-attachments/assets/01cfff51-155d-4a9b-80ed-22df78d35a1b" />
+<img width="280" height="280" alt="shot-2026-03-05_18-00-41" src="https://github.com/user-attachments/assets/5958819a-f9d1-44ab-96e4-8126f2906ff5" />
+<img width="280" height="280" alt="shot-2026-03-05_18-01-06" src="https://github.com/user-attachments/assets/01cfff51-155d-4a9b-80ed-22df78d35a1b" />
 
 ## 💡 How to Use
 
